@@ -7,8 +7,8 @@ if n == 1:
     print(a)
 else:
     while count<n :
+        print(a)
         sum = a + b
         count+= 1
         a = b
         b = sum
-        print(a)
